@@ -12,12 +12,15 @@
     "@emotion/cache": "^11.13.5",
     "@emotion/react": "^11.13.5",
     "@emotion/styled": "^11.13.5",
+    "@hookform/resolvers": "^3.9.1",
     "@mui/icons-material": "^6.1.10",
     "@mui/material": "^6.1.10",
     "@mui/material-nextjs": "^6.1.9",
     "next": "15.0.4",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "react-hook-form": "^7.54.0",
+    "yup": "^1.5.0"
   },
   "devDependencies": {
     "@types/node": "^20",
