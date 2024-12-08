@@ -22,7 +22,7 @@ export type Order = {
   id: string;
   total: number;
   status: OrderStatus;
-  items: OrderStatus[];
+  items: OrderItem[];
   created_at: string;
 };
 
